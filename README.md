@@ -1,4 +1,4 @@
-# PDF Summarizer
+# Ai-Title-Deed-verificator
 
 A web application that allows users to upload images of the Title,sale deed . The application reads the images, identifies the language and extarct the text frrom it with the help of tessdatalanguage models.After this the application convert it to english and extract all the necessary details and will cross-check the details with the databases.
 
